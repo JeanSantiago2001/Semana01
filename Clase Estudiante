@@ -37,7 +37,6 @@ public class Main {
         // mostrar resultados
         System.out.printf("Nota media: " , suma/n);
         System.out.println("La mayor nota ha sido un " + mayor);
-        System.out.println("La menor nota ha sido un " + menor);
+        System.out.println("La nota menor ha sido un " + menor);
     }
-   
 }
